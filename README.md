@@ -4,8 +4,7 @@ I am Pavan. My main interest lies in Data Science and Machine Learning . I also 
 
 - 🔭 I’m currently working on  Data Science
 - 🌱 I’m currently learning PowerBI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with  Proogramming tips.
 - 💬 Ask me about Careeers in Data Science
 - 📫 How to reach me: dupakuntlapavankumar772@gmail.com
 - 😄 Pronouns: You can give one
